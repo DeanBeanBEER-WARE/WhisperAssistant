@@ -1,0 +1,23 @@
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Agent Context
+AGENT.md
